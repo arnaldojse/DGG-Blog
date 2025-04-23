@@ -1,0 +1,31 @@
+/*111827*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #111827;
+}
+header{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    height: 70px;
+    
+}
+.logo{
+   
+}
+ul{
+    display: flex;
+    gap: 20px;
+    
+
+}
+
+
+
+/*header do site principal*/
